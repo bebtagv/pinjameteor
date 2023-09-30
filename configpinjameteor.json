@@ -1,0 +1,180 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#360357416250749_637079418578546",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#360357416250749_637079568578531",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#360357416250749_637079675245187",
+      "startapp_app_id": "0",
+      "unity_game_id": "157b7aff1",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1a6912d95",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online Meteor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Tentang Aplikasi Pinjaman Meteor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F1%20Tentang%20Aplikasi%20Pinjaman%20Meteor.html?alt=media&token=7a53967c-5b91-4a79-893f-527e42fa30c4&_gl=1*1ecyhhs*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA4NDguNTcuMC4w",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Kelebihan Aplikasi Pinjaman Meteor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F2%20Kelebihan%20Aplikasi%20Pinjaman%20Meteor.html?alt=media&token=db7e373a-1824-4e49-9f34-9c121d4f67e4&_gl=1*1qql5sf*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA4NjcuMzguMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Cara Daftar Aplikasi Pinjaman Meteor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F3%20Cara%20Daftar%20Aplikasi%20Pinjaman%20Meteor.html?alt=media&token=28ad3d70-5ada-48f6-8f3f-dc9e0bc0c6b5&_gl=1*gayut6*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA4ODYuMTkuMC4w",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Cara Menghitung Bunga Pinjaman dan Cicilan di Aplikasi Pinjaman Meteor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F4%20Cara%20Menghitung%20Bunga%20Pinjaman%20dan%20Cicilan%20di%20Aplikasi%20Pinjaman%20Meteor.html?alt=media&token=cbd356e3-2ded-478e-b66c-1b77fb415770&_gl=1*1cdfulh*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA5MDIuMy4wLjA.",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Cara Menghubungi Admin Aplikasi Pinjaman Meteor",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F5%20Cara%20Menghubungi%20Admin%20Aplikasi%20Pinjaman%20Meteor.html?alt=media&token=135b2484-e042-4dd6-8d67-959fc8e7acea&_gl=1*umkww2*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEyNDAuNTguMC4w",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Tips Pilih Tenor Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F6%20Tips%20Pilih%20Tenor%20Pinjaman%20Online.html?alt=media&token=c4ddd8eb-a279-4f86-b68e-d1d6fcdb010f&_gl=1*1tppke*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEyNzAuMjguMC4w",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Resiko Tidak Membayar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F7%20Resiko%20Tidak%20Membayar%20Pinjaman%20Online.html?alt=media&token=f39a0066-79cb-49e2-b334-0770dea30161&_gl=1*urggky*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEyOTAuOC4wLjA.",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Tips Cara Manajemen Membayaran Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F8%20Tips%20Cara%20Manajemen%20Membayaran%20Pinjaman%20Online.html?alt=media&token=8bbe67f3-6c4a-4338-912f-815787d9d609&_gl=1*1rukp0h*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEzMDkuNTQuMC4w",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Daftar Aplikasi Pinjaman Online Dengan Tenor 1 Bulan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F9%20Daftar%20Aplikasi%20Pinjaman%20Online%20Dengan%20Tenor%201%20Bulan.html?alt=media&token=7f77dafb-e2c4-4130-bde4-cdf62c3eb2e1&_gl=1*18s80o0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEzMzAuMzMuMC4w",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Daftar Lender Pinjaman Online Dengan Tenor Panjang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F10%20Daftar%20Lender%20Pinjaman%20Online%20Dengan%20Tenor%20Panjang.html?alt=media&token=3470f52c-aa95-4951-9923-f760e8f7158f&_gl=1*8m4g4y*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEzNDkuMTQuMC4w",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Cara Menentukan Tenor Pinjaman Online yang Tepat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F11%20Cara%20Menentukan%20Tenor%20Pinjaman%20Online%20yang%20Tepat.html?alt=media&token=16a53352-8e3d-4e7b-897a-1d52ea9046cc&_gl=1*6csmnc*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEzNjguNTcuMC4w",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Daftar Lender Pinjaman Online dengan Bunga Rendah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F12%20Daftar%20Lender%20Pinjaman%20Online%20dengan%20Bunga%20Rendah.html?alt=media&token=326b134a-853c-43de-bf97-a58980959957&_gl=1*f4brjb*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEzODIuNDMuMC4w",
+      "video": ""
+    },{
+      "id": 13,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Cara Mengetahui Pinjaman Online Terpercaya",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F13%20Cara%20Mengetahui%20Pinjaman%20Online%20Terpercaya.html?alt=media&token=63c9cc4a-2e37-4531-b2e2-98350e4ef93b&_gl=1*p355m6*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODEzOTkuMjYuMC4w",
+      "video": ""
+    },{
+      "id": 14,
+      "category": "Tips Pinjaman Online Meteor",
+      "title": "Tips Terhindar Dari Galbay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2Fbannerpnjmmeteor.png?alt=media&token=fb7c04c1-3c86-42af-adf5-31d00f3f299e&_gl=1*1jp2zr0*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODA3OTYuMjUuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/dnameteor%2F14%20Tips%20Terhindar%20Dari%20Galbay.html?alt=media&token=343efa1f-fa31-4e62-af98-0c9e3d8b96c4&_gl=1*1huv3j6*_ga*MTAwMzcyMjI1NS4xNjYxNDA5Njcz*_ga_CW55HF8NVT*MTY5NjA4MDY1NS4yNS4xLjE2OTYwODE0MTQuMTEuMC4w",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
